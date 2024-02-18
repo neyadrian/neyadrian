@@ -1,5 +1,5 @@
-### Hello, my name is Ney Adrian ✌️
-#### TI student 🖥️
+## Hello, my name is Ney Adrian ✌️
+#### 3/3 TI student 🖥️
 #### Car Enthusiast 🚗
 #### I live in Acopiara, Ceará, Brazil 🌎
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neyadrian_?igsh=dzMzamY1ZDIwYzZw)
