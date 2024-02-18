@@ -1,7 +1,6 @@
-## Hello, my name is Ney Adrian ✌️
-#### 3/3 TI student 🖥️
-#### Certified in the Huawei course on 5G technology 📲
-#### I live in Acopiara, Ceará, Brazil 🌎
+
+### Hello, my name is Ney Adrian ✌️
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neyadrian_?igsh=dzMzamY1ZDIwYzZw)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neyadrian2018@gmail.com)
 
@@ -15,3 +14,6 @@
 [![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+[![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
+
