@@ -1,7 +1,5 @@
 # Hello, my name is Ney Adrian ✌️
 #### 3/3 TI student 🖥️
-#### Certificate in Huawei's 5G technology course 📲
-#### Certificate in the Computer Vision course at IA Expert Academy 🤖
 #### Living in Acopiara, Ceará, Brazil 🗺️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neyadrian_?igsh=dzMzamY1ZDIwYzZw)
@@ -9,7 +7,7 @@
 
 ![Ney GitHub stats](https://github-readme-stats.vercel.app/api?username=neyadrian&show_icons=true&theme=dark)
 
-### Technologies in my daily life 👨‍💻
+## Technologies in my daily life 👨‍💻
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
