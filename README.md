@@ -1,7 +1,7 @@
 # Hello, my name is Ney Adrian ✌️
 #### 3/3 TI student 🖥️
-#### Certificate in Huawei course on 5g technology 🧑‍💻
-#### Certificate in AWS Academy Cloud Foundations course ☁️
+#### Certificate in **Huawei** course on **5g technology** 🧑‍💻
+#### Certificate in **AWS Academy Cloud Foundations course** ☁️
 #### Living in Acopiara, Ceará, Brazil 🗺️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neyadrian_?igsh=dzMzamY1ZDIwYzZw)
