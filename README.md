@@ -3,11 +3,6 @@
 #### Certificate in Huawei course on 5g technology 🧑‍💻
 #### Living in Acopiara, Ceará, Brazil 🗺️
 
-<div>
-    <img src="https://skillicons.dev/icons?i=instagram" />
-    <img src="https://skillicons.dev/icons?i=gmail" /><br>
-</div>
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neyadrian_?igsh=dzMzamY1ZDIwYzZw)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neyadrian2018@gmail.com)
 
@@ -17,7 +12,7 @@
 
 <div>
     <img src="https://skillicons.dev/icons?i=github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,spring,css,html,javascript,reactjs" /><br>
+    <img src="https://skillicons.dev/icons?i=python,spring,css,html,javascript,react" /><br>
 </div>
 
 <h2>Courses:</h2>
