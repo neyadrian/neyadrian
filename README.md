@@ -16,7 +16,7 @@
     <img src="https://skillicons.dev/icons?i=github,git,figma" /><br>
 </div>
 
-<h2>Courses:</h2>
+## Courses 🔰
 
 [![AWS](https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png
 )](https://www.credly.com/badges/deb3a6b1-186a-413f-9322-ff8380e5745c/public_url)
