@@ -11,8 +11,8 @@
 ## Technologies in my daily life 👨‍💻
 
 <div>
-    <img src="https://skillicons.dev/icons?i=github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,spring,css,html,javascript,react" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,springgithub,figma,git" />
+    <img src="https://skillicons.dev/icons?i=github,git,figma" /><br>
 </div>
 
 <h2>Courses:</h2>
