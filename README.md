@@ -17,7 +17,7 @@
 
 <div>
     <img src="https://skillicons.dev/icons?i=github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,spring,css,html,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=python,spring,css,html,javascript,reactjs" /><br>
 </div>
 
 <h2>Courses:</h2>
