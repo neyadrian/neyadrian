@@ -2,7 +2,10 @@
 #### 3/3 TI student 🖥️
 #### Certificate in Huawei course on 5g technology 🧑‍💻
 #### Living in Acopiara, Ceará, Brazil 🗺️
-[![AWS]([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://www.credly.com/badges/deb3a6b1-186a-413f-9322-ff8380e5745c/public_url))]()
+
+<div align="center">[
+  <img align"center" alt="AWS" height="40" width="40" src="](https://www.credly.com/badges/deb3a6b1-186a-413f-9322-ff8380e5745c/public_url)https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+</div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neyadrian_?igsh=dzMzamY1ZDIwYzZw)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neyadrian2018@gmail.com)
