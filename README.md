@@ -3,10 +3,6 @@
 #### Certificate in Huawei course on 5g technology 🧑‍💻
 #### Living in Acopiara, Ceará, Brazil 🗺️
 
-<div align="center">[
-  <img align"center" alt="AWS" height="40" width="40" src="](https://www.credly.com/badges/deb3a6b1-186a-413f-9322-ff8380e5745c/public_url)https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-</div>
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neyadrian_?igsh=dzMzamY1ZDIwYzZw)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neyadrian2018@gmail.com)
 
@@ -23,3 +19,7 @@
 [![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
 
+<h2>Courses:</h2>
+
+[![AWS](https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png
+)](https://www.credly.com/badges/deb3a6b1-186a-413f-9322-ff8380e5745c/public_url)
