@@ -20,9 +20,3 @@
 
 [![AWS](https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png
 )](https://www.credly.com/badges/deb3a6b1-186a-413f-9322-ff8380e5745c/public_url)
-
-[![IT](![image](https://github.com/neyadrian/neyadrian/assets/112216425/f18f04de-bfc3-44ef-a1a0-e768dc4639c2)
-](https://www.credly.com/badges/6fc0f7e6-c7cc-4690-bc7b-0d0698a4e9a7/public_url)
-
-[![AWS](https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png
-)](https://www.credly.com/badges/deb3a6b1-186a-413f-9322-ff8380e5745c/public_url)
