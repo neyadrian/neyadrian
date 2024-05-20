@@ -23,6 +23,8 @@
 [![AWS](https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png
 )](https://www.credly.com/badges/deb3a6b1-186a-413f-9322-ff8380e5745c/public_url)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6fc0f7e6-c7cc-4690-bc7b-0d0698a4e9a7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![IT](https://images.credly.com/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png
+)](https://www.credly.com/badges/6fc0f7e6-c7cc-4690-bc7b-0d0698a4e9a7/public_url)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3c77930f-3a37-455b-a9ee-7a330cfd3a65" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![UX](https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png
+)](https://www.credly.com/badges/deb3a6b1-186a-413f-9322-ff8380e5745c/public_url)
