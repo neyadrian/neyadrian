@@ -15,7 +15,7 @@
 
 <div>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python" />
-    <img src="https://skillicons.dev/icons?i=github,git,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,figma,photoshop" /><br>
 </div>
 
 ## Courses 🔰
