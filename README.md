@@ -1,4 +1,4 @@
-# Hello, my name is Ney Adrian ✌️
+# Hello, my name is Ney Adrian!
 #### Software Engineering student 🖥️
 #### TI 🖥️
 #### Certificate in *Huawei 5g technology* 🧑‍💻
