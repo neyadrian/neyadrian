@@ -3,7 +3,7 @@
 #### TI 🖥️
 #### Certificate in *Huawei 5g technology* 🧑‍💻
 #### Certificate in *AWS Academy Cloud Foundations* ☁️
-#### Certificate in *Gooogle IT Support* 💻
+#### Certificate in *Google IT Support* 💻
 #### Certificate in *Google UX Design* 🎨
 #### Living in Acopiara, Ceará, Brazil 🗺️
 
