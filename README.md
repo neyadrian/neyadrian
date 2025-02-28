@@ -1,5 +1,6 @@
 # Hello, my name is Ney Adrian ✌️
-#### 3/3 TI student 🖥️
+#### Software Engineering student 🖥️
+#### TI 🖥️
 #### Certificate in *Huawei 5g technology* 🧑‍💻
 #### Certificate in *AWS Academy Cloud Foundations* ☁️
 #### Certificate in *Gooogle IT Support* 💻
