@@ -15,8 +15,8 @@
 ## Technologies in my daily life 👨‍💻
 
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python" />
-    <img src="https://skillicons.dev/icons?i=github,git,figma,photoshop" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,c" />
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,figma,photoshop" /><br>
 </div>
 
 ## Courses 🔰
