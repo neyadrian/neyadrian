@@ -1,15 +1,14 @@
 # 👋 Hey, I'm Ney Adrian!  
 
-💻 **Software Engineering Student** | 🚀 **Tech & Design Enthusiast**  
+💻 **Software Engineering Student** | 🚀 **TI**  
 
-📍 Based in Acopiara, Ceará, Brazil  
+📍 Acopiara, Ceará, Brazil  
 
 ---
 
 ## 🚀 About Me  
-🔹 Passionate about **Software Development, UX/UI Design, and Cloud Computing**  
-🔹 Always learning new technologies and improving my skills  
-🔹 Focused on creating solutions that blend **design and functionality**  
+🔹 Constantly learning new technologies to improve my skills 
+🔹 Seeking opportunities to apply my knowledge in real-world projects  
 
 ---
 
