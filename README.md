@@ -1,15 +1,12 @@
 # 👋 Hey, I'm Ney Adrian!  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Tech+Enthusiast;Always+Learning+New+Skills" alt="Typing SVG" />
-
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Always+Learning+New+Skills" alt="Typing SVG" />
 
 ## 🛠️ Technologies I Use  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,c,react,github,git,figma,photoshop" /><br>
 </div>  
 
----
 
 ## 📊 GitHub Stats  
 <div align="center">
