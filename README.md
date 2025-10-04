@@ -21,8 +21,7 @@
 
 ## 🛠️ Technologies I Use  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,github,git,figma,photoshop" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,l" />
+  <img src="https://skillicons.dev/icons?i=java,c,react,github,git,figma,photoshop" /><br>
 </div>  
 
 ---
