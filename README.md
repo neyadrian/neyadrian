@@ -7,14 +7,11 @@
   <img src="https://skillicons.dev/icons?i=java,c,react,github,git,figma,photoshop" /><br>
 </div>  
 
-
 ## 📊 GitHub Stats  
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NeyAdrian&show_icons=true&theme=radical&count_private=true" />
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=NeyAdrian&theme=radical" />
 </div>
-
----
 
 ## 📬 Connect With Me  
 <p align="center">
