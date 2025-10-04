@@ -22,7 +22,7 @@
 ## 🛠️ Technologies I Use  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,c,github,git,figma,photoshop" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,l" />
 </div>  
 
 ---
@@ -54,11 +54,4 @@
 <p align="center">
   <a href="mailto:neyadrian2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ney-adrian-casimiro-oliveira-567b902bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-## 🎉 Fun Animation  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" />
 </p>
