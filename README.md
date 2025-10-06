@@ -4,7 +4,7 @@
 
 ## 🛠️ Technologies I Use  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,c,react,github,git,figma,photoshop" /><br>
+  <img src="https://skillicons.dev/icons?i=java,spring,c,github,git,figma,photoshop" /><br>
 </div>  
 
 ## 📊 GitHub Stats  
