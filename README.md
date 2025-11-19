@@ -22,9 +22,9 @@
 <div align="center">
   <h3>📬 Connect With Me</h3>
   <a href="mailto:neyadrian2018@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/ney-adrian-casimiro-oliveira-567b902bb/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn"/>
   </a>
 </div>
