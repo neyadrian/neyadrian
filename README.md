@@ -10,15 +10,13 @@
 
 Software Engineering student at **IFCE — Campus Acopiara**, focused on building **robust APIs** and **scalable architectures** with **Java** and **Spring Boot**. Experienced with **SQL** databases, **Postman** for API testing/docs, and **Docker** for deployment, with a solid foundation in algorithms and software engineering best practices.
 
-<br>
-
 <div align="center">
 
 ### 🛠️ Stacks & Tools
 
-<img src="https://skillicons.dev/icons?i=java,spring,c,postman,mysql,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=java,spring,postman,mysql,docker,git,github" />
 
-<br><br>
+<br>
 
 ### 📬 Connect with me
 
