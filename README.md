@@ -14,7 +14,7 @@ Software Engineering student at **IFCE — Campus Acopiara**, focused on buildin
 
 ### 🛠️ Stacks & Tools
 
-<img src="https://skillicons.dev/icons?i=java,spring,postman,mysql,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,postman,github" />
 
 <br>
 
